@@ -49,15 +49,6 @@ Use Case: This chart provides insights into weekly trends in media interactions,
 
 ---
 
-Repository Structure
-
-|-- project-1-pie-chart/        Files related to Project 1
-|-- project-2-bar-chart/        Files related to Project 2
-|-- project-3-dual-axis-chart/  Files related to Project 3
-|-- README.md                   Project documentation (this file)
-
----
-
 How to Use
 
 1. Clone this repository:
