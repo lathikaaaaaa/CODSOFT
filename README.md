@@ -1,6 +1,6 @@
 Data Visualization Projects
 
-This repository contains three data visualization projects designed to analyze and present Twitter engagement metrics in Power BI. Each project incorporates specific criteria and interactivity features to provide meaningful insights.
+This repository contains a Power BI file combining three data visualization projects designed to analyze and present Twitter engagement metrics. Each visualization incorporates specific criteria and interactivity features to provide meaningful insights.
 
 ---
 
@@ -52,9 +52,9 @@ Use Case: This chart provides insights into weekly trends in media interactions,
 How to Use
 
 1. Clone this repository:
-   git clone https://github.com/your-username/repository-name.git
-2. Navigate to the desired project folder and open the Power BI file (.pbix).
-3. Review the specific criteria and filters applied to the visualizations.
+   git clone https://github.com/lathikaaaaaa/NullClass-Twitter-Analytics.git
+2. Open the consolidated Power BI file (.pbix) in the root directory.
+3. Review the specific criteria and filters applied to each visualization.
 
 ---
 
